@@ -12,5 +12,5 @@ To get started with this project, clone the repository and install the necessary
 The dataset used in this project can be downloaded from [here](https://www.kaggle.com/datasets/vikasukani/parkinsons-disease-data-set) . It contains voice recordings from patients with and without Parkinson's Disease, along with extracted features.
 
 ## Results
-he results indicate the model's effectiveness in detecting Parkinson's Disease from voice recordings.
+The results indicate the model's effectiveness in detecting Parkinson's Disease from voice recordings.
 
